@@ -1,0 +1,40 @@
+h1{
+    font-family:'Times New Roman', Times, serif;
+    color:red;
+}
+
+h5{
+    font-family:sans-serif;
+    color: grey;
+}
+
+#start{
+    width:10%;
+    background-color: chocolate;
+    color:white;
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+h2,h4{
+    font-style: italic;
+}
+
+img{
+    height: 350px;
+    width:300px;
+    margin-bottom: 10px;
+}
+
+div{
+    background-color: rgb(224, 154, 177);
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+footer{
+    font-size: 20px;
+    font-style: italic;
+    color:rgb(124, 122, 122) ;
+}
